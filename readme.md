@@ -1,3 +1,1 @@
-dette er er et soterings program der, der bruger bubel sort til at sotere tal og bogstaver.
-dette gør programent ved af 3 funktioner: sort_numbers, sort_leters, is_leter_in_order.
-disse funktioner finden i mappen sort.c
+dette progarm slår med to terninger og liger den sammen. detter går den så 50000 gannge ogprinter resultatet af de 50000 slag ud i terminalen.
