@@ -1,1 +1,1 @@
-dette progarm slår med to terninger og liger den sammen. detter går den så 50000 gannge ogprinter resultatet af de 50000 slag ud i terminalen.
+dette progarm slår med to terninger og liger den sammen. detter går den så 50000 gannge ogprinter resultatet af de 50000 slag ud i terminalen, ved at displaye hvor mage forkomster der er af hver udfald (2-12)
